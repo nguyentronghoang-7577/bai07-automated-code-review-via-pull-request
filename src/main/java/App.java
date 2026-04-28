@@ -1,4 +1,3 @@
-import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -6,12 +5,12 @@ import org.slf4j.LoggerFactory;
  * Lớp App cung cấp các hàm tiện ích toán học cơ bản.
  * Đã thêm Javadoc để vượt qua kiểm tra Checkstyle.
  */
-public class app {
+public class App {
   private static final Logger logger = LoggerFactory.getLogger(App.class);
 
   /**
    * Hàm chính khởi chạy ứng dụng.
-   *
+   * .
    * @param args tham số dòng lệnh.
    */
   public static void main(String[] args) {

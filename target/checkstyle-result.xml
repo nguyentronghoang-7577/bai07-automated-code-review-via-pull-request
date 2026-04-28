@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <checkstyle version="9.3">
 <file name="C:\Users\Nguyen Trong Hoang\Desktop\LTNC\NguyenTrongHoang_25020162_Week9\Bai07\src\main\java\App.java">
-<error line="9" column="1" severity="warning" message="The name of the outer type and the file do not match." source="com.puppycrawl.tools.checkstyle.checks.OuterTypeFilenameCheck"/>
-<error line="9" column="14" severity="warning" message="Type name &apos;app&apos; must match pattern &apos;^[A-Z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+<error line="14" severity="warning" message="Javadoc tag &apos;@param&apos; should be preceded with an empty line." source="com.puppycrawl.tools.checkstyle.checks.javadoc.RequireEmptyLineBeforeBlockTagGroupCheck"/>
 </file>
 </checkstyle>
