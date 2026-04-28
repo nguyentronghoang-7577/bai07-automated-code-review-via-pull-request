@@ -10,7 +10,7 @@ public class App {
 
   /**
    * Hàm chính khởi chạy ứng dụng.
-   * .
+   *
    * @param args tham số dòng lệnh.
    */
   public static void main(String[] args) {
