@@ -15,7 +15,7 @@ public class App {
    */
   public static void main(String[] args) {
     logger.info("Starting Application...");
-    int a = 10;
+      int a = 10;
     int b = 5;
     
     int sum = add(a, b);
